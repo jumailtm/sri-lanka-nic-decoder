@@ -1,0 +1,17 @@
+{
+  "name": "sri-lanka-nic-decoder",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript package to decode Sri Lankan NIC numbers and extract date of birth, gender and age.",
+  "main": "src/index.js",
+  "keywords": [
+    "sri-lanka",
+    "nic",
+    "national-identity-card",
+    "dob",
+    "date-of-birth",
+    "gender",
+    "decoder"
+  ],
+  "author": "Jumail_TM",
+  "license": "MIT"
+}
